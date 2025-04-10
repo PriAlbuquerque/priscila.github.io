@@ -3,7 +3,7 @@
 
 # About Me
 
-Olá, eu sou a **Priscila Costa Albuquerque**, pesquisadora e professora com formação em Microbiologia e vasta experiência em análise de redes e bibliometria aplicada à saúde. Minha carreira acadêmica e profissional inclui um Doutorado pela UFRJ, Mestrado pelo INI e experiências de pós-doutorado na Fiocruz, entre outras instituições de renome.
+Olá, eu sou a **Priscila Costa Albuquerque**, pesquisadora com formação em Microbiologia e vasta experiência em análise de redes aplicada à saúde. Minha carreira acadêmica e profissional inclui um Doutorado pela UFRJ, Mestrado pelo INI e experiências de pós-doutorado na Fiocruz, entre outras instituições de renome.
 
 Atualmente, dedico-me ao desenvolvimento de pesquisas que integram a análise de dados e metodologias inovadoras para contribuir com a melhoria dos serviços de saúde. Sou apaixonada por transformar dados científicos em insights estratégicos e colaborar em projetos que promovam a evolução da saúde pública.
 
